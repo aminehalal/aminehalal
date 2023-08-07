@@ -6,7 +6,7 @@ Computer Science and Telecommunications Student
 
 Skills: HTML / CSS / Django
 
-- 🌱 I’m currently learning Spring Boot 
+- 🌱 I’m currently learning Spring Boot and React.js and Next.js 
 - 🤔 I’m looking for help with Spring Boot 
 - 💬 Ask me about Django / Python 
 - 📫 How to reach me: aminehalal.github.io 
