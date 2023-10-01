@@ -4,11 +4,11 @@
 
 Computer Science and Telecommunications Student
 
-Skills: HTML / CSS / Django
+Skills: HTML / CSS / Tailwind / Django / Laravel
 
 - 🌱 I’m currently learning Spring Boot and React.js and Next.js 
 - 🤔 I’m looking for help with Spring Boot 
-- 💬 Ask me about Django / Python 
+- 💬 Ask me about Laravel / Python 
 - 📫 How to reach me: aminehalal.github.io 
 
 
