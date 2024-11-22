@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Back end Developer and Data Analyst
+####🔭 Full Stack Developer
 ### [My Portfolio](https://aminehalal.vercel.app/)
 
 
