@@ -30,6 +30,8 @@
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-ffc400?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![React JS](https://img.shields.io/badge/React.js-087ea4?style=for-the-badge&logo=React&logoColor=white)](https://react.dev/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aminehalal&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
