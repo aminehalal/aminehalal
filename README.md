@@ -32,6 +32,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-ffc400?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![React JS](https://img.shields.io/badge/React.js-087ea4?style=for-the-badge&logo=React&logoColor=white)](https://react.dev/)
+[![Next JS](https://img.shields.io/badge/Next.js-2f2f2f?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aminehalal&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
